@@ -26,3 +26,12 @@ as well, a branch would be useful so I don't have to roll back the
 master if the changes don't work out.
 
 
+
+How do the diagrams help you visualize the branch structure?
+If  you have a lot of developers working on the same large project, 
+visualizing the structure gives you an idea of who is working on 
+what, and what state it would have been in based on when they started 
+working on it.
+
+
+
