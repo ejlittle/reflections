@@ -1,0 +1,10 @@
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+The working directory is all of the files in their current state, 
+while the staging area is temporary space for grouping files to be 
+committed to the repository.  This is useful since it allows you to 
+commit files together, as code projects can typically involve 
+multiple files to (re)solve the given task.
+
+
+
