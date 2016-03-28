@@ -8,3 +8,13 @@ multiple files to (re)solve the given task.
 
 
 
+How can you use the staging area to make sure you have one commit per 
+logical change?
+You choose which files go into the staging area, and using git diff to 
+compare the working directory to the staged directory, as well as git 
+diff --staged to compare the staged directory to the repository, you 
+can see which changes were made and adjust your staged directory 
+accordingly before you commit.
+
+
+
