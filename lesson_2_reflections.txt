@@ -35,3 +35,12 @@ working on it.
 
 
 
+What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+Merging two branches joins them, combining all changes into their 
+respective files. We represent it in the diagram the way we do 
+because there may be multiple commits along a given branch from 
+where it diverged.
+
+
+
