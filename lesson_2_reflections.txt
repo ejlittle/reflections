@@ -44,3 +44,8 @@ where it diverged.
 
 
 
+What are the pros and cons of Git’s automatic merging vs. always 
+doing merges manually?
+Automatic merging is bound to make a mistake at some point, but 
+manual merging takes significantly longer when 99% of the time 
+auto-merging works perfectly well.
