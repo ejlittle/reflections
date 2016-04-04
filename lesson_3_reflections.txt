@@ -23,3 +23,14 @@ personal copies of a given repo.  Branches are different, in that
 they are diverging development paths from a particular point in time 
 that are typically going to be merged back into the main development 
 once the branch has been fully explored.
+
+
+
+What is the benefit of having a copy of the last known state of the 
+remote stored locally?
+Knowing this allows you to keep track of all of the changes that have 
+happened since the last time you checked on the remote's status. If 
+multiple people are collaborating on a single project, maybe even 
+pushing changes to the master, you would want to know about it when 
+you were ready to merge your changes into the remote so you don't 
+overwrite someone else's work.
