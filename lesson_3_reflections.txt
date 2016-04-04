@@ -44,3 +44,15 @@ Email so we could have a trail of conversation.  It would be easier,
 because nobody would have to learn anything new to do it, but it 
 would be difficult to know specific lines of code that changed (when 
 and why) and to roll back changes.
+
+
+
+When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+Truly, I think you should use branches any time you are making a 
+change at all, though I could see if you were the only person working 
+on a project why you might want to just work straight out of master.  
+In that scenario I could see branches being useful for feature 
+exploration--"I think this is a good idea, let me go down this path a 
+little bit...oh crap, that didn't work.  Glad I didn't mess up the 
+core branch."
