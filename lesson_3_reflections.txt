@@ -13,3 +13,13 @@ everyone else is making until you are finished with your feature
 exploration.
 
 
+
+Describe the differences between forks, clones, and branches. When 
+would you use one instead of another?
+Forks and clones are essentially the same thing.  They are new repos 
+that are duplicates of an existing repo from a particular point in 
+time.  The difference is forks exist only on GitHub and clones are 
+personal copies of a given repo.  Branches are different, in that 
+they are diverging development paths from a particular point in time 
+that are typically going to be merged back into the main development 
+once the branch has been fully explored.
