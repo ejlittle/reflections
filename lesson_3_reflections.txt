@@ -34,3 +34,13 @@ multiple people are collaborating on a single project, maybe even
 pushing changes to the master, you would want to know about it when 
 you were ready to merge your changes into the remote so you don't 
 overwrite someone else's work.
+
+
+
+
+How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
+Email so we could have a trail of conversation.  It would be easier, 
+because nobody would have to learn anything new to do it, but it 
+would be difficult to know specific lines of code that changed (when 
+and why) and to roll back changes.
